@@ -129,9 +129,3 @@ Google Data Analytics Certificate
 📍 Milwaukee, WI
 
 🔗 www.linkedin.com/in/tyiesha-little | GitHub | Portfolio (add links)
-
-
-
-A shortened recruiter skim version
-
-Tell me where you’re hosting it and I’ll format it exactly for that platform.
