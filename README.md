@@ -126,7 +126,7 @@ cyclistic-bike-share-analysis/
 **Tyiesha Little**
 Aspiring Data Analyst | Google Data Analytics Certificate
   Milwaukee, WI
-🔗 www.linkedin.com/in/tyiesha-little | GitHub | Portfolio (add links)
+🔗 www.linkedin.com/in/tyiesha-little | GitHub | Portfolio (https://github.com/TyLit91)
 ---
 
 ## Disclaimer
